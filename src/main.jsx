@@ -10,7 +10,7 @@ import Head2 from './components/Head2.jsx'
 import Small from './components/small.jsx'
 import Form from './components/Form.jsx'
 import Footer from './components/Footer.jsx'
-import { HashRouter as Router } from "react-router-dom";
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
