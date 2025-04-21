@@ -1,0 +1,1 @@
+import { HashRouter as Router } from "react-router-dom";
